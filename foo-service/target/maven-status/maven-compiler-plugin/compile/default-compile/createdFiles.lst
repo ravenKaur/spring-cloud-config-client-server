@@ -1,0 +1,5 @@
+org/springframework/cloud/config/AnotherRestController.class
+org/springframework/cloud/config/FooServiceApplication.class
+org/springframework/cloud/config/ThirdRestController.class
+org/springframework/cloud/config/MyRestController.class
+org/springframework/cloud/config/MessageService.class
